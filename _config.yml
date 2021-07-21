@@ -1,11 +1,11 @@
 # Site settings
 title: BlogTalks | 4 weeks training blog
 description: "A static blog page, build with Jekyll."
-url: "http://www.jacoporabolini.com/emerald"
+url: "https://jaswantsinghh.github.io/BlogTalks/"
 author:
-  name: "Jacopo Rabolini"
-  email: "hello@jacoporabolini.com"
-  url: "http://www.jacoporabolini.com"
+  name: "Jaswant Singh"
+  email: "jaswantgndec@gmail.com"
+  url: "https://jaswantsinghh.github.io/BlogTalks/"
 
 # Build settings
 baseurl: /BlogTalks/ # Change this to your relative path (ex: /blog/), or leave just a /
@@ -34,5 +34,5 @@ version: "1.1.0"
 
 # Options
 custom_header: true
-custom_nav_footer: false
+custom_nav_footer: true
 reverse: false
