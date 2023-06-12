@@ -1,5 +1,5 @@
 ---
-title: Day 17 - Hashrouter
+title: Hashrouter
 ---
 Hey guys,     
 I started my day today by looking for the solution of the bug of react-router. As I told you earlier I got its fix from one of my senior but I had'nt tried it yet. So, I opened the 
