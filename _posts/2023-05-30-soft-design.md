@@ -1,5 +1,5 @@
 ---
-title: Day 18 - Tasks App Soft Design
+title: Tasks App Soft Design
 ---
 Hello Guys...      
 How you doing? Hope you are doing great. Today finally I completed Tasks Apps soft design which is live @ [link](https://jaswantsinghh.github.io/tasks-app-soft-design/). It is a vert amazing
